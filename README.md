@@ -42,7 +42,7 @@ The goal is to understand how data is gathered before performing cleaning, EDA, 
 <!--                   TOOLS USED                   -->
 <!-- =============================================== -->
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - Python  
 - pandas  
@@ -59,7 +59,7 @@ The goal is to understand how data is gathered before performing cleaning, EDA, 
 <!--                    HOW TO RUN                  -->
 <!-- =============================================== -->
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
 ```bash
